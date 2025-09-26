@@ -1,0 +1,32 @@
+{
+    "name": "emprendimiento-backend",
+    "version": "1.0.0",
+    "description": "Arquitectura hexagonal para dominio de emprendimiento con paradigmas asíncronos",
+    "main": "dist/main.js",
+    "type": "module",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/main.js",
+        "dev": "ts-node --esm src/main.ts",
+        "test": "ts-node --esm src/main.ts"
+    },
+    "keywords": [
+        "typescript",
+        "hexagonal-architecture",
+        "domain-driven-design",
+        "async-patterns",
+        "emprendimiento"
+    ],
+    "author": "Estudiante",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "typescript": "^5.0.0",
+        "ts-node": "^10.9.0"
+    },
+    "dependencies": {
+        "uuid": "^9.0.0",
+        "@types/uuid": "^9.0.0",
+        "chalk": "^5.0.0"
+    }
+}
