@@ -4,11 +4,9 @@
 Sistema de Venta de Productos - Plataforma backend completa para gestion de usuarios, clientes y emprendedores en un entorno de comercio electronico desarrollado en TypeScript con arquitectura hexagonal.
 
 ## Integrantes y Contribuciones
-- Integrante 1: [Diego Velez] - Desarrollo de entidades y arquitectura hexagonal
-- Integrante 2: [Wendy Moreira] - Implementacion de repositorios y patrones asincronos
-- Integrante 3: [Nibia Rodriguez] - Servicios de aplicacion y documentacion
-
-Nota: Completar con los nombres reales de los integrantes del equipo
+- Integrante 1: [Diego Velez] - Desarrollo de entidades y arquitectura hexagonal // Entidad: Emprendedor
+- Integrante 2: [Wendy Moreira] - Implementacion de repositorios y patrones asincronos // Entidad: Usuario
+- Integrante 3: [Nibia Rodriguez] - Servicios de aplicacion y documentacion Entidad: Cliente
 
 ## Arquiectura del Sistema
 
